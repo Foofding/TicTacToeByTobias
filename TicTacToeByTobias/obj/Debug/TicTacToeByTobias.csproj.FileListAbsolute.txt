@@ -1,0 +1,15 @@
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\bin\Debug\TicTacToeByTobias.exe.config
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\bin\Debug\TicTacToeByTobias.exe
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\bin\Debug\TicTacToeByTobias.pdb
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.csprojAssemblyReference.cache
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\MainWindow.g.cs
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\App.g.cs
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias_MarkupCompile.cache
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias_MarkupCompile.lref
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\MainWindow.baml
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.g.resources
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.Properties.Resources.resources
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.csproj.GenerateResource.cache
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.csproj.CoreCompileInputs.cache
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.exe
+C:\Users\tsimcox\source\repos\TicTacToeByTobias\TicTacToeByTobias\obj\Debug\TicTacToeByTobias.pdb

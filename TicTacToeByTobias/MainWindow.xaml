@@ -7,12 +7,20 @@
         mc:Ignorable="d"
         ResizeMode="NoResize"
         Title="MainWindow" Height="616" Width="503">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderThickness" Value=".6"/>
+            <Setter Property="FontSize" Value="64"/>            
+        </Style>      
+    </Window.Resources>
     <Grid>        
         <Grid.RowDefinitions>            
             <RowDefinition Height="100"/>
             <RowDefinition Height="*"/>     
         </Grid.RowDefinitions>
-        <Grid Grid.Row="1" Margin="10,0,10,10">
+        <Grid Grid.Row="1" Margin="10,0,10,10" x:Name="Container">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
@@ -23,16 +31,15 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <Button Grid.Column="0" Grid.Row="0"/>
-            <Button Grid.Column="1" Grid.Row="0"/>
-            <Button Grid.Column="2" Grid.Row="0"/>
-            <Button Grid.Column="0" Grid.Row="1"/>
-            <Button Grid.Column="1" Grid.Row="1"/>
-            <Button Grid.Column="2" Grid.Row="1"/>
-            <Button Grid.Column="3" Grid.Row="1"/>
-            <Button Grid.Column="0" Grid.Row="2"/>
-            <Button Grid.Column="1" Grid.Row="2"/>
-            <Button Grid.Column="2" Grid.Row="2"/>
+            <Button x:Name ="Button0_0" Grid.Column="0" Grid.Row="0" Content="X" Click="Button_Click"/>
+            <Button x:Name ="Button1_0" Grid.Column="1" Grid.Row="0" Content="O" Click="Button_Click"/>
+            <Button x:Name ="Button2_0" Grid.Column="2" Grid.Row="0" Click="Button_Click"/>
+            <Button x:Name ="Button0_1" Grid.Column="0" Grid.Row="1" Click="Button_Click"/>
+            <Button x:Name ="Button1_1" Grid.Column="1" Grid.Row="1" Click="Button_Click"/>
+            <Button x:Name ="Button2_1" Grid.Column="2" Grid.Row="1" Click="Button_Click"/>
+            <Button x:Name ="Button0_2" Grid.Column="0" Grid.Row="2" Click="Button_Click"/>
+            <Button x:Name ="Button1_2"  Grid.Column="1" Grid.Row="2" Click="Button_Click"/>
+            <Button x:Name ="Button2_2"  Grid.Column="2" Grid.Row="2" Click="Button_Click"/>
         </Grid>
 
     </Grid>
